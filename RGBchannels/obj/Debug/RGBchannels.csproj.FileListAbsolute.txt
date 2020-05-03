@@ -1,0 +1,10 @@
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\bin\Debug\RGBchannels.exe.config
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\bin\Debug\RGBchannels.exe
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\bin\Debug\RGBchannels.pdb
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\obj\Debug\RGBchannels.csprojAssemblyReference.cache
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\obj\Debug\RGBchannels.Form1.resources
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\obj\Debug\RGBchannels.Properties.Resources.resources
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\obj\Debug\RGBchannels.csproj.GenerateResource.cache
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\obj\Debug\RGBchannels.csproj.CoreCompileInputs.cache
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\obj\Debug\RGBchannels.exe
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\RGBchannels\RGBchannels\obj\Debug\RGBchannels.pdb
